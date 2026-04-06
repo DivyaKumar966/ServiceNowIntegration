@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1975347_employ_0.admin" name="x_1975347_employ_0.admin">3a48564e0f0083102ebfecc530d1b25f</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-04-06 05:25:32</sys_created_on>
+        <sys_id>3a48564e0f0083102ebfecc530d1b264</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3a48564e0f0083102ebfecc530d1b25f</sys_name>
+        <sys_package display_value="Employee Data Import System" source="x_1975347_employ_0">2648164e0f0083102ebfecc530d1b2ba</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee Data Import System">2648164e0f0083102ebfecc530d1b2ba</sys_scope>
+        <sys_update_name>sys_embedded_help_role_3a48564e0f0083102ebfecc530d1b264</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-04-06 05:25:32</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
